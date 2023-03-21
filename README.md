@@ -25,6 +25,6 @@
   <div>
      <img src="https://user-images.githubusercontent.com/112744136/226717791-b9ad9787-8952-4d1a-ba7f-883161c52721.png" title="AWS" alt="AWS" width="40" height="40"/>
      <img src="https://user-images.githubusercontent.com/112744136/226719782-c3255161-520e-4e05-b68b-95a7e512689d.png"" title="Git" alt="Git" width="40" height="40"/>
-     <img src="https://user-images.githubusercontent.com/112744136/226720102-26891473-8bf3-4a3a-b5da-19814de15df1.png" title="VisualCode" alt="VisualCode" width="40" height="40"/>
+     <img src="https://user-images.githubusercontent.com/112744136/226720417-68004b52-809f-409f-8a3d-8e0e71644497.png" title="VisualCode" alt="VisualCode" width="40" height="40"/>
   </div>
 
