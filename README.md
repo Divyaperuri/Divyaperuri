@@ -18,5 +18,13 @@
  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp
    <img src="https://user-images.githubusercontent.com/112744136/226717215-a6fd13c4-6fdc-4710-a064-87bb0d495aee.png" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/112744136/226718390-ed4d95f2-f98a-428a-8933-73a7c8dc9e8b.png" title="Linux" alt="Linux" width="40" height="40"/>
+   </div>
+  
+  <h3>Tools and Platform</h3>
+  <div>
+     <img src="https://user-images.githubusercontent.com/112744136/226717791-b9ad9787-8952-4d1a-ba7f-883161c52721.png" title="AWS" alt="AWS" width="40" height="40"/>
+     <img src="https://user-images.githubusercontent.com/112744136/226719782-c3255161-520e-4e05-b68b-95a7e512689d.png"" title="Git" alt="Git" width="40" height="40"/>
+     <img src=""https://user-images.githubusercontent.com/112744136/226720102-26891473-8bf3-4a3a-b5da-19814de15df1.png"" title="VisualCode" alt="VisualCode" width="40" height="40"/>
   </div>
 
