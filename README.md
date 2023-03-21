@@ -9,7 +9,4 @@
 🔭 I have knowledge on AWS,Linux,Networking.<br>
 <h>
   <h3>Skills and Languages</h3>
-  <img src="![image](https://user-images.githubusercontent.com/112744136/226703350-4d088ef3-877b-4337-ad8a-11246a304b08.
-  <div id="header" align="center">
-  <img src="![image](https://user-images.githubusercontent.com/112744136/226703350-4d088ef3-877b-4337-ad8a-11246a304b08.png)" width="100"/>
-</div>
+  <img x="5" y="3" width="14" height="14" src="![image](https://user-images.githubusercontent.com/112744136/226703350-4d088ef3-877b-4337-ad8a-11246a304b08.png)"/>
