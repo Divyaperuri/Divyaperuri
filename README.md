@@ -14,4 +14,7 @@
 🔭 I have knowledge on AWS,Linux,Networking.<br>
 <h>
   <h3>Skills and Languages</h3>
-  <img x="5" y="3" width="14" height="14" src="![image](https://user-images.githubusercontent.com/112744136/226703350-4d088ef3-877b-4337-ad8a-11246a304b08.png)"/>
+  
+ <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp
+  </div>
