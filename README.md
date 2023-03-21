@@ -1,7 +1,6 @@
 <html>
-  <title>Readme File</title>
   <body>
-    <h1>Hi, This is Divya
+    <h1>Hi Everyone, I'm Divya Peruri
     </h1>
   </body>
 </html>
