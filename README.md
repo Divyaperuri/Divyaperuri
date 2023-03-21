@@ -5,5 +5,5 @@
   </body>
 </html>
 
-🌱 I’m currently learning Python,Django,Flask.
+🌱 I’m currently learning Python,Django,Flask.<br>
 🔭 I have knowledge on AWS.
