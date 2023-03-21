@@ -17,4 +17,6 @@
   
  <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp
+   <img src="https://user-images.githubusercontent.com/112744136/226717215-a6fd13c4-6fdc-4710-a064-87bb0d495aee.png" title="Python" alt="Python" width="40" height="40"/>
   </div>
+
