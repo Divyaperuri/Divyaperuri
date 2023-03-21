@@ -1,3 +1,7 @@
-🙍‍♀️Hi , I am DivyaPeruri...
-📚I am interesed in learning new things..
-☁☁Interested to move to Cloud : AWS.....
+<html>
+  <title>Readme File</title>
+  <body>
+    <h1>Hi, This is Divya
+    </h1>
+  </body>
+</html>
