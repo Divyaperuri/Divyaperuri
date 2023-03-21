@@ -12,6 +12,7 @@
 
 🌱 I’m currently learning Python,Django,Flask.<br>
 🔭 I have knowledge on AWS,Linux,Networking.<br>
+📫 How to reach me: divyaperuri97@gmail.com<br>
 <h>
   <h3>Skills and Languages</h3>
   
