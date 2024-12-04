@@ -2,7 +2,7 @@
     <h2>Hi Everyone, I'm Divya Peruri
     </h2>
   <body>
-	  I am more passionate about to learn AWS and DevOps.
+	  I am more passionate about to learn AWS and DevOps,aspiring to become a Cloud Engineer, and DevOps Engineer.
   </body>
 </html>
 <div id="badges">
