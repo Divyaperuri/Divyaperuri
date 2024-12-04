@@ -10,13 +10,13 @@
   </a>
   </div>
 
-🌱 I’m currently learning Python,Django,Flask.<br>
-🔭 I have knowledge on AWS,Linux,Networking,DevOps,Docker,Jenkins.<br>
+🌱 I’m currently learning Kubernetes, Terraform.<br>
+🔭 I have knowledge on AWS,Linux,Networking,Docker,Jenkins,Ansible,Python.<br>
 📫 How to reach me: divyaperuri97@gmail.com<br>
 <h>
   <h3>Tools and Languages</h3>
   
- <div align="center">
+ <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp
    <img src="https://user-images.githubusercontent.com/112744136/226717215-a6fd13c4-6fdc-4710-a064-87bb0d495aee.png" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://user-images.githubusercontent.com/112744136/226718390-ed4d95f2-f98a-428a-8933-73a7c8dc9e8b.png" title="Linux" alt="Linux" width="40" height="40"/>
