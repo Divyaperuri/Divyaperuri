@@ -1,7 +1,8 @@
 <html>
+    <h2>Hi Everyone, I'm Divya Peruri
+    </h2>
   <body>
-    <h1>Hi Everyone, I'm Divya Peruri:innocent::seedling::blossom:
-    </h1>
+	  I am more passionate about to learn AWS and DevOps.
   </body>
 </html>
 <div id="badges">
