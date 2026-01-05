@@ -11,7 +11,7 @@
   </a>
   </div>
 
-🌱 I’m currently learning Kubernetes, Terraform.<br>
+🌱 I’m currently learning Devsecops,Kubernetes, Terraform.<br>
 🔭 I have knowledge on AWS,Linux,Networking,Docker,Jenkins,Ansible,Python.<br>
 📫 How to reach me: divyaperuri97@gmail.com<br>
 <h>
